@@ -1,0 +1,17 @@
+
+.table {
+    width: 600px;
+}
+
+body {
+    padding: 35px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    padding-right: 35px;
+}
